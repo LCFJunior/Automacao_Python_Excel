@@ -24,7 +24,7 @@ Nesta etapa, o objetivo é calcular a comissão de cada vendedor e validar os pa
 ## Desafio Técnico - Etapa 2: Análise de Contrato de Partnership
 Nesta etapa, o objetivo é extrair o nome de cada sócio e a quantidade de cotas que cada um possui a partir de um contrato de partnership.
 
-- Entrada: [Link para o contrato de partnership]()
+- Entrada: [Link]() para o contrato de partnership
 - Saída Esperada: Uma tabela ou lista contendo o nome de cada sócio e a quantidade de cotas que cada um possui.
 ## Conclusão
 - Este README fornece uma visão geral do projeto, descrevendo cada etapa do desafio técnico e suas respectivas tarefas. Também inclui links para as entradas necessárias e especifica a saída esperada para cada etapa. Isso facilita o entendimento do projeto e como executar as tarefas propostas.
