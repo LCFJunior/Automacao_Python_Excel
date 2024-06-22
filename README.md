@@ -35,3 +35,4 @@ Nesta etapa, o objetivo é extrair o nome de cada sócio e a quantidade de cotas
   - Instale as dependências necessárias.
   - Execute os scripts Python correspondentes a cada etapa do desafio, fornecendo as entradas necessárias conforme especificado no README.
   - Verifique a saída gerada para cada tarefa e certifique-se de que atende aos requisitos estabelecidos.
+  - Altere os caminhos de arquivos que correspondam com a sua situação e sua máquina.
