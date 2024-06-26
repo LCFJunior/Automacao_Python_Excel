@@ -1,4 +1,5 @@
 # Desafio Técnico AAWZ - Automação
+# ![Logo do Projeto](aawz.jpg)
 Este projeto foi desenvolvido como parte do desafio técnico proposto pela AAWZ para avaliar habilidades em automação de processos utilizando Python. O projeto consiste em duas etapas:
 
 - Desafio Técnico - Etapa 1: Cálculo de Comissões e Validação de Pagamentos
