@@ -1,4 +1,4 @@
-# Desafio Técnico AAWZ - Automação
+# Desafio Técnico - Automação 
 # ![image](https://github.com/LCFJunior/Automacao_Python_Excel/assets/129459925/e7ae5bb2-6a65-48fe-95c9-e498e9ffe5ca)
 
 
