@@ -1,7 +1,8 @@
 # Desafio Técnico AAWZ - Automação
-# ![aawz](https://github.com/LCFJunior/AAWZ_Partners/assets/129459925/19a5be4f-1a29-4cfb-8e08-7417543ae6fa)
+# ![image](https://github.com/LCFJunior/Automacao_Python_Excel/assets/129459925/e7ae5bb2-6a65-48fe-95c9-e498e9ffe5ca)
 
-Este projeto foi desenvolvido como parte do desafio técnico proposto pela AAWZ para avaliar habilidades em automação de processos utilizando Python. O projeto consiste em duas etapas:
+
+Este projeto foi desenvolvido como parte de um desafio técnico em automação de processos utilizando Python. O projeto consiste em duas etapas:
 
 - Desafio Técnico - Etapa 1: Cálculo de Comissões e Validação de Pagamentos
 - Desafio Técnico - Etapa 2: Análise de Contrato de Partnership
